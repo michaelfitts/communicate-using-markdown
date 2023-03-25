@@ -6,3 +6,8 @@ $ git commit
 $ git pull
 Step 3 is completed.
 ```
+- [x] Step 1
+- [x] Step 2
+- [x] Step 3
+- [ ] Step 4
+- [ ] Step 5
